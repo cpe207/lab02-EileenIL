@@ -34,7 +34,7 @@ body{
     height: 100%;
     background-size: cover;
     background-position: center;
-    background-image: url('/image/e1debc8d31f7779f898db5fa80b2541b.jpg');
+    background-image: url('image/e1debc8d31f7779f898db5fa80b2541b.jpg');
 }
 .menu{
     background-color:rgba(10, 61, 77, 0.834);
