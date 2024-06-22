@@ -7,10 +7,10 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
-* a{
+a{
     text-decoration: none;
 }
-* li{
+li{
     list-style: none;
 }
 .container{
